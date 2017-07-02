@@ -1,5 +1,5 @@
 #! /usr/bin/python
-# TODO: OSX perhaps?
+# Source from http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/2200068-simple-command-line-minecraft-launcher-in-python
 import sys, os
 import json
 import urllib
