@@ -1,5 +1,4 @@
 #! /usr/bin/python
-# Source from http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/2200068-simple-command-line-minecraft-launcher-in-python
 import sys, os
 import json
 import urllib
@@ -170,4 +169,3 @@ p = Profile(launcherProfiles["profiles"]["teachcraft"])
 p.downloadMissingFiles()
 print "> Starting Minecraft..."
 os.system("cd mcdata && %s" % p.launchcmd(username))
-
