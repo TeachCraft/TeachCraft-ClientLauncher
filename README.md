@@ -1,6 +1,6 @@
 # TeachCraft-ClientLauncher
 
-To execute, run the below in your terminal with Python 2.7 installed. It will then prompt you for your gamename:
+To execute, run the below in your terminal with Python 2.7 installed. It will then prompt you for your name:
 
 ```
 python launcher.py
